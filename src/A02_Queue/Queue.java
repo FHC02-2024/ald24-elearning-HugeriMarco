@@ -23,6 +23,8 @@ public class Queue<T>
         counter--;
 
     	return newNode.getData();
+
+        //dofijsoid
     }
     
     
