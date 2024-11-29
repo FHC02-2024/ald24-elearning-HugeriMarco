@@ -24,7 +24,7 @@ public class Queue<T>
 
     	return newNode.getData();
 
-        //dofijsoid
+        //dofijsoidasdijfasdiofjaosid
     }
     
     
